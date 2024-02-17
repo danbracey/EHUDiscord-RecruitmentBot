@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "prohibited_roles": [],
+    "prohibit_third_year_students": true,
+    "prohibit_timed_out_students_within_last_year": true,
+    "prohibit_ehu_staff": true,
+    "role_id_of_recruitment": 963370609566433330
+  },
+  "text_based_questions": {
+    "Question Text": {
+      "character_limit": 2000,
+      "required": true
+    }
+  },
+  "rating_questions": {
+    "Question Text": {
+      "options": ["Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"],
+      "required": true
+    }
+  }
+}
